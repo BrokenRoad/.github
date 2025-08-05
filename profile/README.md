@@ -1,8 +1,12 @@
 <!-- Organization Banner -->
+
 <p align="center">
-  <img src="https://i.ibb.co/jkzFRnBt/logo.png#gh-light-mode-only" alt="BrokenRoad Banner" width="100%" />
-  <img src="https://i.ibb.co/jkzFRnBt/logo.png#gh-dark-mode-only" alt="BrokenRoad Banner" width="100%" />
+  <picture>
+    <source srcset="https://i.ibb.co/jkzFRnBt/logo.png" media="(prefers-color-scheme: dark)" style="filter: invert(1);" />
+    <img src="https://i.ibb.co/jkzFRnBt/logo.png" alt="BrokenRoad Logo" width="200" />
+  </picture>
 </p>
+
 
 <h1 align="center">🚀 BrokenRoad</h1>
 <p align="center">
