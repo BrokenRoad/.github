@@ -1,6 +1,7 @@
 <!-- Organization Banner -->
 <p align="center">
-  <img src="https://i.ibb.co/jkzFRnBt/logo.png" alt="BrokenRoad Banner" width="100%" />
+  <img src="https://i.ibb.co/jkzFRnBt/logo.png#gh-light-mode-only" alt="BrokenRoad Banner" width="100%" />
+  <img src="https://i.ibb.co/jkzFRnBt/logo.png#gh-dark-mode-only" style="filter: invert(100%);" alt="BrokenRoad Banner" width="100%" />
 </p>
 
 <h1 align="center">🚀 BrokenRoad</h1>
