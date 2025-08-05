@@ -4,8 +4,6 @@
   <img src="https://i.ibb.co/jkzFRnBt/logo.png" alt="BrokenRoad Banner" width="100%" />
 </p>
 
-
-<h1 align="center">🚀 BrokenRoad</h1>
 <p align="center">
   <em>Turning obstacles into opportunities — building the future of mobile & AI.</em>
 </p>
