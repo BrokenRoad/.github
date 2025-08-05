@@ -1,10 +1,7 @@
 <!-- Organization Banner -->
 
 <p align="center">
-  <picture>
-    <source srcset="https://i.ibb.co/jkzFRnBt/logo.png" media="(prefers-color-scheme: dark)" style="filter: invert(1);" />
-    <img src="https://i.ibb.co/jkzFRnBt/logo.png" alt="BrokenRoad Logo" width="200" />
-  </picture>
+  <img src="https://i.ibb.co/jkzFRnBt/logo.png" alt="BrokenRoad Banner" width="100%" />
 </p>
 
 
