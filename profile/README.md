@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <em>Turning obstacles into opportunities — building the future of mobile & AI.</em>
+  <em>Forging the future where the road ends</em>
 </p>
 
 ---
