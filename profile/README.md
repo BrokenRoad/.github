@@ -30,5 +30,5 @@ Because every great innovation starts on a road full of challenges — and we pa
 ---
 
 <p align="center">
-  📫 <strong>Let’s build something incredible together</strong> — <a href="mailto:your-email@example.com">Contact Us</a>
+  📫 <strong>Let’s build something incredible together</strong> — <a href="mailto:arbkociii@gmail.com">Contact Us</a>
 </p>
